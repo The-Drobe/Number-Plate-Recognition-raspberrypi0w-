@@ -1,6 +1,6 @@
 # Number-Plate-Recognition-raspberrypi0w-
 recognise number plates with one of the smallest single board computers
-#This is a prototype, a proof of concept.
+# This is a prototype, a proof of concept.
 # How to setup
 1. install raspberry pi os
 2. set up the raspberrypi for headless install follow this <a href="https://core-electronics.com.au/tutorials/raspberry-pi-zerow-headless-wifi-setup.html">guide</a> (this will be the network you use to access the webGUI)
